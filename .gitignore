@@ -17,7 +17,7 @@ var/
 *.egg
 .idea/
 node_modules/
-digit-recognizer-serverless/
+venv/
 
 # Serverless directories
 .serverless

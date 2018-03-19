@@ -1,9 +1,22 @@
 {
   "name": "digit-recognizer-serverless",
-  "description": "",
-  "version": "0.1.0",
-  "dependencies": {},
-  "devDependencies": {
-    "serverless-python-requirements": "^3.1.1"
+  "version": "1.0.0",
+  "description": "> Serverless endpoints to invoke a deep neural network classifier for digit recognition",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pvhee/digit-recognizer-serverless.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pvhee/digit-recognizer-serverless/issues"
+  },
+  "homepage": "https://github.com/pvhee/digit-recognizer-serverless#readme",
+  "dependencies": {
+    "serverless-python-requirements": "^3.3.1"
   }
 }
