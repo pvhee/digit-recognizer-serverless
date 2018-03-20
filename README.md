@@ -5,7 +5,7 @@
 
 Install `serverless` globally, then you need `virtualenv` to install this locally
 
-	virtualenv venv --python=2.7
+	virtualenv venv --python=python2.7
 	source venv/bin/activate
 
 And then deploy the new function
